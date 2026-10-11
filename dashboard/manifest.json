@@ -1,0 +1,8 @@
+{
+  "name": "skill-review-receipt",
+  "label": "Skill 建议回执",
+  "description": "只读查看待审 Skill 建议，并复制或导出讨论回执。",
+  "icon": "ClipboardList",
+  "version": "1.0.0",
+  "api": "plugin_api.py"
+}

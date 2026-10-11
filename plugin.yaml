@@ -1,0 +1,3 @@
+name: skill-review-receipt
+version: 0.1.0
+description: Read-only review inbox that turns staged Hermes Skill writes into portable receipts.
